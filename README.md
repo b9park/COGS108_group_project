@@ -1,6 +1,4 @@
-##COGS108 Making Major Decisions: Unveiling the Impact of College Major Selection on Early Career Wages
-
-
+# COGS108 Making Major Decisions: Unveiling the Impact of College Major Selection on Early Career Wages
 
 This is group 75's repo for the final project for COGS108
 
